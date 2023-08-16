@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Kashyap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src='https://thumbs.gfycat.com/ShrillHelplessAvians-size_restricted.gif' align='right' alt='coding' width='400'/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="lucky-kashyap" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce-Web-App](https://e-commerce-shop-app.netlify.app/)
