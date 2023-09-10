@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="lucky-kashyap" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce-Web-App](https://e-commerce-shop-app.netlify.app/)
 
 - 🌱 I’m currently learning **MERN Stack,React JS,SQL**
 
